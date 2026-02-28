@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Wolf",
+  "base_artist": "SIAMÉS",
+  "createdAt": "2026-02-28T09:32:59.027286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Wolf",
+      "artist": "Miniature Tigers",
+      "has_synced": true,
+      "path": "select/01_The_Wolf_Miniature_Tigers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Wolf Is Getting Married",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/02_The_Wolf_Is_Getting_Married_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Father of the Wolf",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/03_Father_of_the_Wolf_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lamb and the Wolf",
+      "artist": "CocoRosie",
+      "has_synced": false,
+      "path": "select/04_Lamb_and_the_Wolf_CocoRosie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hungry Like the Wolf",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/05_Hungry_Like_the_Wolf_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eyes Of The Wolf",
+      "artist": "Mikolai Stroinski",
+      "has_synced": true,
+      "path": "select/06_Eyes_Of_The_Wolf_Mikolai_Stroinski.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hungry Like The Wolf (2009 Remastered Version)",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/07_Hungry_Like_The_Wolf_(2009_Remastered_Version)_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hungry Like the Wolf (Night Version) [2009 Remastered Version]",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/08_Hungry_Like_the_Wolf_(Night_Version)_[2009_Remastered_Version]_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hungry Like the Wolf (US Remix) [2009 Remastered Version]",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/09_Hungry_Like_the_Wolf_(US_Remix)_[2009_Remastered_Version]_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Wolf",
+      "artist": "Heart",
+      "has_synced": true,
+      "path": "select/10_The_Wolf_Heart.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unchaining The Wolf (At War...)",
+      "artist": "Necromantia",
+      "has_synced": false,
+      "path": "select/11_Unchaining_The_Wolf_(At_War...)_Necromantia.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In the Year of the Wolf",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/12_In_the_Year_of_the_Wolf_Motörhead.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Night Of The Wolf",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/13_Night_Of_The_Wolf_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Wolf",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/14_The_Wolf_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "AKA M80 the Wolf",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/15_AKA_M80_the_Wolf_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Wolf",
+      "artist": "SIAMES",
+      "has_synced": false,
+      "path": "select/pl_01_The_Wolf_SIAMES.txt"
+    }
+  ]
+}
